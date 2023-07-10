@@ -1,0 +1,2 @@
+This folder contains the output from the Rolling-circle pipeline for each sample.
+Each file contains the number of calls made supporting each of the 4 possible nucleotides (A, T, C or G) at every single genomic position.
