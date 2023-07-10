@@ -1,8 +1,8 @@
 This folder contains all the data necessary to reproduce the analzyses from the Rolling-circle RNAseq SARS-CoV-2 mutation rate project.
 
-Description of the files in this folder:
+# Description of the files in this folder:
 
-all-frequencies-combined-and-lethal.rds : The raw results from running the rolling-circle pipeline.
+**all-frequencies-combined-and-lethal.rds** : The raw results from running the rolling-circle pipeline.
 This file can be loaded into a data.frame in R with the readRDS function.
 The data.frame organization is as follows:
 Each line corresponds to one of the 89,709 base-substitutions possible in the SARS-CoV-2 genome (3 base-substitution possible per position, 29,903 positions in the genome).
