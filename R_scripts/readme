@@ -1,0 +1,3 @@
+This folder contains the R scripts used in the SARS-CoV-2 genome mutation analysis.
+
+The path to folders inside these scripts will need to be modified before running on a new computer.
